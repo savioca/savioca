@@ -21,15 +21,8 @@ Olá, eu me chamo Sávio, estou iniciando minha carreira como dev e em breve ter
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img height="25em" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img height="25em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </a>
   <a href="https://dotnet.microsoft.com/pt-br/learn/csharp/">
     <img height="25em" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  </a>
-  <a href="https://www.microsoft.com/pt-br/sql-server/">
-    <img height="25em" alt="Database SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   </a>
   <a href="https://www.microsoft.com/pt-br/microsoft-365/sharepoint/collaboration/">
     <img height="25em" alt="SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
@@ -44,5 +37,3 @@ Olá, eu me chamo Sávio, estou iniciando minha carreira como dev e em breve ter
 
 <br/>
 
-## 📫 Estatísticas do github
-![sauslash github stats](https://github-readme-stats.vercel.app/api?username=sauslash&hide=[%22issues%22]&show_icons=true)
