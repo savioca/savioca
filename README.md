@@ -40,7 +40,7 @@ Olá, eu me chamo Sávio, estou iniciando minha carreira como dev e em breve ter
 
 ## 📫 Contatos
 
-[![Linkedin Badge](https://img.shields.io/badge/Sávio%20Oliveira-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savio-oliveira-2072a133a/)](https://www.linkedin.com/in/savio-oliveira-2072a133a) 
+[![Linkedin Badge](https://img.shields.io/badge/Savio%20Oliveira-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savio-oliveira-2072a133a/)](https://www.linkedin.com/in/savio-oliveira-2072a133a) 
 
 <br/>
 
